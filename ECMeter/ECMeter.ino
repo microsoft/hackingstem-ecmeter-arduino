@@ -19,7 +19,7 @@
 // http://github.com/[TODO github path to Hacking STEM]
 //
 // Copyright 2018, Microsoft EDU Workshop - HackingSTEM
-// MIT License terms detailed in LICENSE.md
+// MIT License terms detailed in LICENSE.txt
 //===----------------------------------------------------------------------===//
 
 // CONSTANTS
