@@ -1,7 +1,8 @@
 //===---------__ Hacking STEM – EC_Meter.1.0.1.ino – Arduino __-----------===//
 // For use with the "ELECTRICAL CONDUCTIVITY SENSOR Measuring Water Quality to
 // Study Human Impact" lesson plan available from Microsoft Education Workshop
-// at http://aka.ms/hackingSTEM
+// at https://www.microsoft.com/en-us/education/education-workshop/conductivity-sensor.aspx
+// http://aka.ms/hackingSTEM
 //
 // This project uses an Arduino UNO microcontroller board, information at:
 // https://www.arduino.cc/en/main/arduinoBoardUno
