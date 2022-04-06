@@ -1,5 +1,5 @@
 # Introduction
-Microcontroller code for [Microsoft Hacking STEM EC Meter lesson plan](https://www.microsoft.com/en-us/education/education-workshop/conductivity-sensor.aspx) and [BBC Oceans - Exploring Ocean Currents lesson plan](https://aka.ms/currents-lesson) adapted for Arduino.
+Microcontroller code for Microsoft Hacking STEM Measuring Water Quality to Understand Human Impact Lesson plan adapted for Arduino.
 
 # Getting Started
 1. Download lesson assets at:
