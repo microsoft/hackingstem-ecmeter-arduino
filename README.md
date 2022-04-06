@@ -3,8 +3,8 @@ Microcontroller code for [Microsoft Hacking STEM EC Meter lesson plan](https://w
 
 # Getting Started
 1. Download lesson assets at:
-[Microsoft Hacking STEM EC Meter lesson plan](https://www.microsoft.com/en-us/education/education-workshop/conductivity-sensor.aspx)
-[BBC Oceans - Exploring Ocean Currents lesson plan](https://aka.ms/currents-lesson)
+    * Microsoft Hacking STEM EC Meter lesson plan: https://education.microsoft.com/hackingStem/lesson/802f760a
+    * BBC Oceans - Exploring Ocean Currents lesson plan: https://education.microsoft.com/hackingStem/lesson/264b425d
 1. Build your EC Meter!
 1. Use [Arduino IDE](https://www.arduino.cc/en/Main/Software) to flash the .ino to your [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) microcontroller
 1. Verify data interactions in Excel
